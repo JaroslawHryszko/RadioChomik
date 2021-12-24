@@ -8,12 +8,12 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Radio-Browser</summary>
-    <summary lang="bg">Radio-Browser</summary>
-    <summary lang="de">Radio-Browser</summary>
-    <description lang="en">Directory of radio stations that uses www.radio-browser.info as source.
-
-If you miss your favourite station, just go to www.radio-browser.info and add it yourself. It is a wiki like system.</description>
+    <summary lang="en">RadioChomik</summary>
+	<summary lang="en">RadioChomik</summary>
+    <summary lang="bg">RadioChomik</summary>
+    <summary lang="de">RadioChomik</summary>
+    <description lang="en">Wtyczka specjalnie dla Arniki, aby mogła słuchać ulubionych audycji radiowych</description>
+    <description lang="pl">Wtyczka specjalnie dla Arniki, aby mogła słuchać ulubionych audycji radiowych</description>
     <description lang="bg">Колекция от радио станции, с източник www.radio-browser.info
 
 Ако любимата ви станция не е в списъка, можете да я добавите като посетите www.radio-browser.info</description>
