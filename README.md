@@ -2,6 +2,8 @@
 
 RadioChomik is a Python3 plugin for CODI (formerly Kodi) that leverages the Radio Browser API to bring a vast selection of internet radio stations to your CODI media center. With RadioChomik, users can easily browse, search, and play thousands of live radio stations from around the world, manage their favorite stations, and explore stations by tags, countries, and popularity.
 
+![happy hamster pic](https://github.com/JaroslawHryszko/RadioChomik/blob/master/chomik.png?raw=true)
+
 ## Features
 
 - **Extensive Radio Station Library**: Access to thousands of internet radio stations from around the world.
