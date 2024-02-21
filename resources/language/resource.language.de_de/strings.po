@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Radio Browser
-# Addon id: plugin.audio.radiobrowser
-# Addon Provider: segler_alex
+# Addon Name: Radio Chomik
+# Addon id: plugin.audio.radiochomik
+# Addon Provider: segler_alex jarekhryszko
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
