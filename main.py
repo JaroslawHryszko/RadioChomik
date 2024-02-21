@@ -9,7 +9,7 @@ import xbmcvfs
 import json
 import base64
 
-addonID = 'plugin.audio.radiobrowser'
+addonID = 'plugin.audio.radiochomik'
 addon = xbmcaddon.Addon(id=addonID)
 
 base_url = sys.argv[0]
