@@ -19,7 +19,7 @@ args = urllib.parse.parse_qs(sys.argv[2][1:])
 xbmcplugin.setContent(addon_handle, 'songs')
 
 my_stations = {}
-profile = xbmc.translatePath(addon.getAddonInfo('profile'))
+profile = xbmcvfs.translatePath(addon.getAddonInfo('profile'))
 mystations_path = profile+'/mystations.json'
 
 import socket

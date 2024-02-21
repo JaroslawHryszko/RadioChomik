@@ -8,5 +8,7 @@ kodi-radio-browser v1.2.0 (2020-06-21)
 v1.3.0 (2021-12-24)
 - Modification for Python3
 - Name changed for RadioChomik (because of reasons)
-RadioChomik v1.3.1 (2024-02-21)
+RadioChomik v1.4.0 (2024-02-21)
 - Some minor UX-oriented modifications
+- Polish translation added
+- Fixed xbmcvfs bug
