@@ -16,10 +16,11 @@ RadioChomik is a Python3 plugin for CODI (formerly Kodi) that leverages the Radi
 
 To install RadioChomik, follow these steps:
 
-1. Download the RadioChomik plugin zip file.
-2. Open CODI and navigate to `Add-ons`.
-3. Select `Install from zip file` and choose the downloaded RadioChomik zip file.
-4. Follow the prompts to complete the installation.
+1. Download this repository in a form of zip file (go to green button `code` above and select `Download ZIP`).
+2. Save downloaded zip file i.e. on a USB drive and connect drive to your CODI host (like Raspberry PI), or use SAMBA service instead.
+3. Open CODI and navigate to `Add-ons`.
+4. Select `Install from zip file` and choose the downloaded RadioChomik zip file (you need to have `Installation from unknown sources` enabled).
+5. Follow the prompts to complete the installation.
 
 ## Usage
 
