@@ -16,7 +16,7 @@ RadioChomik (formerly radio-browser-plugin) is a Python3-based plugin for Kodi (
 
 To install RadioChomik, follow these steps:
 
-1. Download this repository in a form of zip file (go to green button `code` above and select `Download ZIP`).
+1. Download https://github.com/JaroslawHryszko/RadioChomik/blob/master/plugin.audio.radiochomik.zip OR this repository in a form of zip file (go to green button `code` above and select `Download ZIP`).
 2. Save downloaded zip file i.e. on a USB drive and connect drive to your Kodi host (like Raspberry PI), or use SAMBA service instead.
 3. Open Kodi and navigate to `Add-ons`.
 4. Select `Install from zip file` and choose the downloaded RadioChomik zip file (you need to have `Installation from unknown sources` enabled).
