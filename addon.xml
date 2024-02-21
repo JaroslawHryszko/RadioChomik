@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.radiobrowser" name="Radio-Browser.info" version="1.2.0" provider-name="sailor">
+<addon id="plugin.audio.radiochomik" name="RadioChomik" version="1.0.0" provider-name="JarekHryszko">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -12,17 +12,13 @@
 	<summary lang="en">RadioChomik</summary>
     <summary lang="bg">RadioChomik</summary>
     <summary lang="de">RadioChomik</summary>
-    <description lang="en">Wtyczka specjalnie dla Arniki, aby mogła słuchać ulubionych audycji radiowych</description>
-    <description lang="pl">Wtyczka specjalnie dla Arniki, aby mogła słuchać ulubionych audycji radiowych</description>
-    <description lang="bg">Колекция от радио станции, с източник www.radio-browser.info
-
-Ако любимата ви станция не е в списъка, можете да я добавите като посетите www.radio-browser.info</description>
+    <description lang="en">Plugin for displaying (and listening in a result) Internet radio stations gathered by www.radio-browser.info website. It is a Python3 oriented development of kodi-radio-browser plugin.</description>
+    <description lang="pl">Wtyczka do wyświetlania (i w rezutacie do słuchania) internetowych stacji radiowych gromadzonych przez serwis www.radio-browser.info. Wtyczka powstała specjalnie dla Arniki, aby mogła słuchać ulubionych audycji radiowych.</description>
     <description lang="de">Verzeichnis von Radio-Stationen das www.radio-browser.info als Quelle nutzt.
-
 Vermisst du deine Lieblingsstation? Kein problem: geh auf www.radio-browser.info und füge sie für alle Benutzer hinzu!</description>
     <license>GNU General Public License, Version 3</license>
-    <website>https://www.radio-browser.info</website>
-    <source>https://github.com/segler-alex/kodi-radio-browser</source>
-    <email>segler_alex@web.de</email>
+    <website>https://github.com/JaroslawHryszko/RadioChomik/</website>
+    <source>https://github.com/JaroslawHryszko/RadioChomik/</source>
+    <email>jarek@hryszko.pl</email>
   </extension>
 </addon>

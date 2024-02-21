@@ -1,7 +1,12 @@
-v1.0.0 (2016-06-19)
+kodi-radio-browser v1.0.0 (2016-06-19)
 - First working version with basic lists for tags, countries, top 100s
-v1.1.0 (2018-12-17)
+kodi-radio-browser v1.1.0 (2018-12-17)
 - Add search function
 - Add in-app favorites menu
-v1.2.0 (2020-06-21)
+kodi-radio-browser v1.2.0 (2020-06-21)
 - Use new api (api.radio-browser.info)
+v1.3.0 (2021-12-24)
+- Modification for Python3
+- Name changed for RadioChomik (because of reasons)
+RadioChomik v1.3.1 (2024-02-21)
+- Some minor UX-oriented modifications
